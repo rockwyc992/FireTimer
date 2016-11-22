@@ -27,6 +27,7 @@
         "https://lms.ncu.edu.tw/*"
     ],
     "minimum_edge_version": "37.14316.1000.0",
+    "manifest_version": 2,
     "background": {
     "page": "dummy.html",
     "persistent": true
